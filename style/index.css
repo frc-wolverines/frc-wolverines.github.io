@@ -65,10 +65,14 @@ body {
     width: 85vw;
     position: absolute;
     filter: blur(2.5vw);
+    opacity: 0%;
+    animation: fade-in 2s linear 1.5s 1 forwards;
 }
 
 #welcome-img {
     width: 85vw;
     image-resolution: auto;
     position: absolute;
+    opacity: 0%;
+    animation: fade-in 1.5s linear 0s 1 forwards;
 }
