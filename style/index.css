@@ -74,7 +74,7 @@ body {
     image-resolution: auto;
     position: absolute;
     opacity: 0%;
-    animation: fade-in 1.5s linear 0s 1 forwards;
+    animation: fade-in 1.5s linear 1 forwards;
 }
 
 @keyframes fade-in {
